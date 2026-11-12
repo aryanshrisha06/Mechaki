@@ -8,8 +8,7 @@ A Python strategy bot for the Zone Rush competition. V5 combines territory expan
 | File | Description |
 |---|---|
 | `bot.py` | Main competition bot |
-| `bot_v5.py` | V5 development copy |
-| `benchmark_v5.py` | Benchmark runner against the local simulator |
+| `benchmark_v4.py` | Benchmark runner against the local simulator |
 | `simulator.py` | Local game simulator |
 
 ## Strategy Overview
